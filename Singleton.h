@@ -1,3 +1,6 @@
+// Ubuntu Qt .pro file add "LIBS += -pthread"
+// g++ compile -pthread
+
 #include <iostream>
 #include <memory>
 #include <mutex>
