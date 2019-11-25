@@ -3,7 +3,7 @@
 #include <sys/ioctl.h>
 #include <net/if.h>
 
-#include <string
+#include <string>
 
 
 //在Linux平台获取本机的ip地址,非本地回环和docker
